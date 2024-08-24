@@ -143,6 +143,18 @@ scoop install main/curl
 curl --version
 ```
 
+
+# у меня уже стоят git
+
+https://git.github.io/git-scm.com/downloads
+
+
+# 7 zip 
+
+оригинал - https://www.7-zip.org/
+
+стабильный  - https://www.softportal.com/software-63-7-zip.html
+
 #  установка проекта rbenv для windows
 
 ```
