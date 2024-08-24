@@ -12,7 +12,14 @@ Powershell
 
 ![image](https://github.com/user-attachments/assets/9447ba02-8c02-483c-a105-9650eadaf8f1)
 
+
+
+
 Powershell запускается строго **не под**  администратором
+
+
+
+
 ![image](https://github.com/user-attachments/assets/321902f3-b415-4ef2-82b8-f8276c1a17e8)
 
 
@@ -54,7 +61,7 @@ curl --version
 ![image](https://github.com/user-attachments/assets/44899061-a8a4-49c4-893b-d41c59deb19d)
 
 
-иначе  можно выбрать прицип установки curl
+иначе  можно выбрать принцип установки curl
 
 https://curl.se/download.html#Win64
 
