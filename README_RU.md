@@ -2,7 +2,7 @@
 
 инструкция не расматривает вопросы с  .NET Framework 4.5 (or later)
 
-# нужно узнать версию Powershell
+# 1 нужно узнать версию Powershell
 
 вводим в поиск windows 
 ```
@@ -42,7 +42,7 @@ https://learn.microsoft.com/ru-ru/powershell/scripting/install/installing-powers
 
 обязательно закрываем и открываем терминал Powershell и перезагружам пк
 
-# curl
+# 2 проверить установку curl
 
 ```
 curl --version
@@ -136,7 +136,7 @@ scoop install main/curl
 curl --version
 ```
 
-# установака проекта rbenv для windows
+#  установка проекта rbenv для windows
 
 ```
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser                      
