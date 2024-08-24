@@ -110,10 +110,19 @@ Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 
 иструкции и команды по установке curl c сайта
 
+![image](https://github.com/user-attachments/assets/899e0835-a26b-44e7-ba3b-7d9b40af93a6)
+
+
 ```
 https://scoop.sh/#/apps?q=curl&id=09e3750a1f0a703b6de0f8fa4ca1263ef5d59ad3
 ```
 
+```
+scoop bucket add main
+```
+```
+scoop install main/curl
+```
 
 обязательно закрываем и открываем терминал Powershell и перезагружам пк
 
