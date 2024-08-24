@@ -88,7 +88,7 @@ $env:RBENV_ROOT = "C:\Ruby-on-Windows"
 & "$env:RBENV_ROOT\rbenv\bin\rbenv.ps1" init
 $env:PATH += ";C:\Windows\System32"
 ```
-**сохраняем и закрываем **
+**сохраняем и закрываем**
 
 Powershell запускается строго **не под**  администратором
 устанавливает scoop
