@@ -163,6 +163,22 @@ $env:RBENV_ROOT = "C:\Ruby-on-Windows"
 iwr -useb "https://github.com/ccmywish/rbenv-for-windows/raw/main/tools/install.ps1" | iex
 ```
 
+
+работа с профилями 
+```
+notepad $PROFILE
+```
+
+моя запись в блокнот с подержкой scoop
+
+```notepad
+$env:RBENV_ROOT = "C:\Ruby-on-Windows"
+& "$env:RBENV_ROOT\rbenv\bin\rbenv.ps1" init
+$env:PATH += ";C:\Windows\System32"
+```
+
+**сохраняем и закрываем блокнот**
+
 обязательно закрываем и открываем терминал Powershell и перезагружам пк
 
 после кажого действия 
